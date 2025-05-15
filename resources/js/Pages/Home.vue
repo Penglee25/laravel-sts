@@ -1,3 +1,3 @@
 <template>
-    GAGO
+    GAGOsadasaaadsdwasd
 </template>
